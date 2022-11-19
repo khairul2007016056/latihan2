@@ -2,8 +2,8 @@
 title: "Pelatihan R Bersama HIMASTA"
 subtitle: "GitHub dan Basic R"
 #author: "Team name <br> Names of team members"
-author: "Riki Herliansyah"
-institute: "Ikatan Keluarga Alumni Statistika (IKAS)"
+author: "khairul"
+institute: "statistika 2020"
 date: "`r Sys.Date()`"
 output:
   xaringan::moon_reader:
